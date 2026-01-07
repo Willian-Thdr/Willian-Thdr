@@ -1,8 +1,17 @@
-# Oi, eu sou o Willian 👋  
+# Olá, eu sou o Willian 👋  
 
+Atualmente, eu programo em **JavaFX**, consigo fazer papel de **Full-Stack** nesta linguagem. 
+Por agora, estou aprendendo também **GML**.
 
-💻 Desenvolvedor em formação focado em full-stack procurando aprender cada vez mais. 
-📖 Atualmente aprendendo Java e JavaFX. 
-🧠 Gosto de criar projetos criativos ou que ajudem em problemas cotidianos.  
+Eu possuo foco em **desenvolvimento de software e de jogos**. 
 
-📫 Contato: business.will-theo@outlook.com 
+E pretendo aprender várias outras linguagens, entre elas são:
+- Pyton;
+- SQL;
+- C#;
+- HTML.
+
+Por agora, não postarei muitos projetos por estar focando em GML. 
+
+Mas se quiser que eu construa algo, 
+pode entrar em contato comigo através do seguinte email: **business.will-theo@outlook.com**
