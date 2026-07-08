@@ -3,7 +3,7 @@
 ### Sobre mim:
 
 Sou desenvolvedor iniciante focado em desenvolvimento de Software e Jogos.
-Atualmente eu trabalho com Java (JavaFX) e venho aprendendo C# (Avalonia UI), estou focando no Full-Stack e sempre criando projetos que envolvam desenvolvimento de interfaces gráficas e da lógica para fazer um programa funcionar.
+Atualmente eu trabalho com Java (JavaFX) e venho aprendendo C# (WPF), estou focando no Full-Stack e sempre criando projetos que envolvam desenvolvimento de interfaces gráficas e da lógica para fazer um programa funcionar.
 
 ### Interesses:
 Eu tenho interesse em criar interfaces gráficas, automação de sistemas, desenvolvimento de jogo e criar projetos que simplifiquem tarefas grandes.
